@@ -1,0 +1,106 @@
+destinations:
+  # SYD:
+  #   CHI: 1
+  #   SFO: 0
+  #   LAX: 0
+  #   YVR: 0
+  #   DFW: 0
+  #   IAH: 0
+  # MEL:
+  #   CHI: 1
+  #   SFO: 0
+  #   LAX: 0
+  #   DFW: 0
+  # BNE:
+  #   CHI: 1
+  #   SFO: 0
+  #   LAX: 0
+  #   YVR: 0
+  # AKL:
+  #   CHI: 1
+  #   SFO: 0
+  #   LAX: 0
+  #   YVR: 0
+  #   DFW: 0
+  #   IAH: 0
+  # PRG:
+  #   CHI: 1
+  #   NYC: 0
+  # VIE:
+  #   CHI: 1
+  #   NYC: 0
+  #   IAD: 0
+  #   YYZ: 0
+  # BUD:
+  #   CHI: 1
+  # ZAG:
+  #   CHI: 1
+  #   YYZ: 0
+  # SPU:
+  #   CHI: 1
+  # DBV:
+  #   CHI: 1
+  # JNB:
+  #   CHI: 2
+  #   NYC: 1
+  #   IAD: 1
+  #   ATL: 1
+  # CPT:
+  #   CHI: 2
+  #   NYC: 1
+  #   IAD: 1
+  #   ATL: 1
+  # SIN:
+  #   CHI: 2
+  #   LAX: 1
+  #   SFO: 1
+  #   SEA: 1
+  #   YVR: 1
+  # CGK:
+  #   CHI: 2
+  #   LAX: 1
+  #   SFO: 1
+  #   SEA: 1
+  #   YVR: 1
+  # DPS:
+  #   CHI: 2
+  #   LAX: 1
+  #   SFO: 1
+  #   SEA: 1
+  #   YVR: 1
+  # ICN:
+  #   CHI: 1
+  #   YVR: 0
+  #   SEA: 0
+  #   SFO: 0
+  #   LAX: 0
+  #   DFW: 0
+  #   MSP: 0
+  #   DTW: 0
+  # DEL:
+  #   CHI: 1
+  #   YYZ: 0
+  #   NYC: 0
+  #   IAD: 0
+  #   YVR: 0
+  #   SFO: 0
+  # SCL:
+  #   CHI: 1
+  #   DFW: 0
+  #   IAH: 0
+  #   ATL: 0
+  #   MIA: 0
+  # EZE:
+  #   CHI: 1
+  #   DFW: 0
+  #   IAH: 0
+  #   ATL: 0
+  #   MIA: 0
+
+dates:
+  window_start:
+    # - Wednesday
+    # - Thursday
+    - Friday
+  start_date: 2024-11-01
+  end_date: 2025-01-31
